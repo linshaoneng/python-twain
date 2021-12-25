@@ -13,10 +13,21 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/#twainmodule
 -------
 
 Twain scanner program based on Python 3
+
 install
+
 Select Twain plug-in according to your current server and python version
 https://www.lfd.uci.edu/ ~gohlke/pythonlibs/#twainmodule
-For example, I currently use Python 3 eight
-Via PIP install Twain ‑ 1.0 4‑pp38‑pypy38_ pp73‑win_ amd64. WHL installation
+
+For example, I currently use Python 3.8
+
+Via pip install Twain ‑ 1.0 4‑pp38‑pypy38_ pp73‑win_ amd64. WHL installation
+
+
 common problem:
 
+-------
+
+linshaoneng@sina.cn
+
+wechat:linshaoneng_bj
