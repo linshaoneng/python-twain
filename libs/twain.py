@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+
+# 林少能 linshaoneng@sina.cn
+# 2021-12-25 增加连续扫描多张
+# 2021-12-25 add continuous scanning multiple sheets
+
 import ctypes
 from ctypes import *
 import weakref
