@@ -3,6 +3,11 @@
 # 林少能 linshaoneng@sina.cn
 # 基于twain扫描仪程序
 # Scanner program based on Twain
+# 常见的ds_name
+# 富士通（FUJITSU）:
+# PaperStream IP fi-7140 
+# 
+# SPK8021
 
 from libs import twain
 
